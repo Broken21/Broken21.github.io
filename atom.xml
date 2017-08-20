@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://softan.me/"/>
-  <updated>2017-08-20T09:07:42.323Z</updated>
+  <updated>2017-08-20T13:32:53.169Z</updated>
   <id>http://softan.me/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>npm设置国内镜像</title>
+    <link href="http://softan.me/2017/08/20/npm-taobao/"/>
+    <id>http://softan.me/2017/08/20/npm-taobao/</id>
+    <published>2017-08-20T13:32:53.169Z</published>
+    <updated>2017-08-20T13:32:53.169Z</updated>
+    
+    <summary type="html">
+    
+      npm官方站不怎么稳定并且对于国内用户下载很慢 所以修改为国内镜像站是个很好的选择
+    
+    </summary>
+    
+      <category term="技术" scheme="http://softan.me/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="npm" scheme="http://softan.me/tags/npm/"/>
+    
+  </entry>
   
   <entry>
     <title>磁力链接是如何工作的？</title>
