@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://softan.me/post-sitemap.xml</loc>
+        <loc>https://softan.me/post-sitemap.xml</loc>
         <lastmod>2017-08-20T13:32:53.169Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://softan.me/page-sitemap.xml</loc>
+        <loc>https://softan.me/page-sitemap.xml</loc>
         <lastmod>2017-08-20T11:53:04.110Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://softan.me/category-sitemap.xml</loc>
+        <loc>https://softan.me/category-sitemap.xml</loc>
         <lastmod>2017-08-20T08:23:20.231Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://softan.me/tag-sitemap.xml</loc>
+        <loc>https://softan.me/tag-sitemap.xml</loc>
         <lastmod>2017-08-20T08:23:20.231Z</lastmod>
     </sitemap>
 

@@ -2,49 +2,49 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://softan.me/tags/%E6%97%A5%E5%B8%B8/</loc>
+        <loc>https://softan.me/tags/%E6%97%A5%E5%B8%B8/</loc>
         <lastmod>2017-08-20T08:23:20.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://softan.me/tags/%E5%81%87%E6%9C%9F/</loc>
+        <loc>https://softan.me/tags/%E5%81%87%E6%9C%9F/</loc>
         <lastmod>2017-08-20T08:23:20.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://softan.me/tags/hexo/</loc>
+        <loc>https://softan.me/tags/hexo/</loc>
         <lastmod>2017-08-20T08:37:28.873Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://softan.me/tags/%E5%8D%9A%E5%AE%A2/</loc>
+        <loc>https://softan.me/tags/%E5%8D%9A%E5%AE%A2/</loc>
         <lastmod>2017-08-20T08:37:28.873Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://softan.me/tags/%E7%BB%88%E7%AB%AF/</loc>
+        <loc>https://softan.me/tags/%E7%BB%88%E7%AB%AF/</loc>
         <lastmod>2017-08-20T08:37:28.873Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://softan.me/tags/%E7%A3%81%E5%8A%9B%E9%93%BE%E6%8E%A5/</loc>
+        <loc>https://softan.me/tags/%E7%A3%81%E5%8A%9B%E9%93%BE%E6%8E%A5/</loc>
         <lastmod>2017-08-20T09:07:42.323Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://softan.me/tags/npm/</loc>
+        <loc>https://softan.me/tags/npm/</loc>
         <lastmod>2017-08-20T13:32:53.169Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
