@@ -9,18 +9,15 @@
     
     <meta name="author" content="Brokrn">
     
-    <meta name="description" content="工具Neoterm(酷安网可以下载)之前用过Termux 但是因为系统的原因tsu也没有权限使用hexo而su又不能执行hexo的命令折腾一番找到了可以用su正常执行hexo的软件Neoterm
-
-/data/data/io.neoterm/files/ 这个是Linux的根目录
-
-
-环境配置apt">
+    <meta name="description" itemprop="description" content="利用Neoterm在Android设备上搭建hexo博客环境">
     
     
     
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="broken" />
     <meta name="twitter:title" content="Android上搭建hexo博客 | Softan" />
+      
+        <meta name="twitter:description" content="利用Neoterm在Android设备上搭建hexo博客环境" />
       
     
     
@@ -44,7 +41,7 @@
 				<h1 class="site-name"><a href="/" title="Softan">Softan</a></h1>
 				<h2 class="blog-motto">Stay hungry stay foolish</h2>
 			</div>
-			<div class="navbar"><a class="navbutton navmobile" href="#" title="Menu">
+			<div class="navbar"><a class="navbutton navmobile" href="#" title="菜单">
 			</a></div>
 			<nav class="animated">
 				<ul>
@@ -61,7 +58,7 @@
 					
 					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
 						<label>Search</label>
-						<input type="text" id="search" name="q" autocomplete="off" maxlength="20" placeholder="Search" />
+						<input type="text" id="search" name="q" autocomplete="off" maxlength="20" placeholder="搜索" />
 						<input type="hidden" name="q" value="site:softan.me">
 					</form>
 					
@@ -84,8 +81,8 @@
       <a href="http://softan.me" title="Brokrn">Brokrn</a>
     </p>
   <p class="article-time">
-    <time datetime="2017-08-20T07:31:20.871Z" itemprop="datePublished">2017-08-20</time>
-    Updated:<time datetime="2017-08-20T07:31:20.831Z" itemprop="dateModified">2017-08-20</time>
+    <time datetime="2017-08-20T08:24:18.121Z" itemprop="datePublished">2017-08-20</time>
+    更新日期:<time datetime="2017-08-20T08:24:18.081Z" itemprop="dateModified">2017-08-20</time>
     
   </p>
 </header>
@@ -93,7 +90,7 @@
 		
 		
 		<div id="toc" class="toc-article">
-			<strong class="toc-title">Contents</strong>
+			<strong class="toc-title">文章目录</strong>
 		<ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#工具"><span class="toc-number">1.</span> <span class="toc-text">工具</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#环境配置"><span class="toc-number">2.</span> <span class="toc-text">环境配置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#安装HEXO"><span class="toc-number">3.</span> <span class="toc-text">安装HEXO</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#部署至GitHub"><span class="toc-number">4.</span> <span class="toc-text">部署至GitHub</span></a></li></ol>
 		</div>
 		
@@ -151,19 +148,11 @@ $ hexo deploy  //输入GitHub账户和密码即可
 	
 <nav class="article-nav clearfix">
  
- <div class="prev" >
- <a href="/2017/08/20/2017-sujia/" title="2017の暑假">
-  <strong>PREVIOUS:</strong><br/>
-  <span>
-  2017の暑假</span>
-</a>
-</div>
-
 
 <div class="next">
-<a href="/2017/08/20/hello-world/"  title="Hello World">
+<a href="/2017/08/20/2017-sujia/"  title="2017の暑假">
  <strong>NEXT:</strong><br/> 
- <span>Hello World
+ <span>2017の暑假
 </span>
 </a>
 </div>
@@ -172,20 +161,20 @@ $ hexo deploy  //输入GitHub账户和密码即可
 
 	
 </div>  
-      <div class="openaside"><a class="navbutton" href="#" title="Show Sidebar"></a></div>
+      <div class="openaside"><a class="navbutton" href="#" title="显示侧边栏"></a></div>
 
   <div id="toc" class="toc-aside">
-  <strong class="toc-title">Contents</strong>
+  <strong class="toc-title">文章目录</strong>
   <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#工具"><span class="toc-number">1.</span> <span class="toc-text">工具</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#环境配置"><span class="toc-number">2.</span> <span class="toc-text">环境配置</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#安装HEXO"><span class="toc-number">3.</span> <span class="toc-text">安装HEXO</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#部署至GitHub"><span class="toc-number">4.</span> <span class="toc-text">部署至GitHub</span></a></li></ol>
   </div>
 
 <div id="asidepart">
-<div class="closeaside"><a class="closebutton" href="#" title="Hide Sidebar"></a></div>
+<div class="closeaside"><a class="closebutton" href="#" title="隐藏侧边栏"></a></div>
 <aside class="clearfix">
 
   
 <div class="categorieslist">
-	<p class="asidetitle">Categories</p>
+	<p class="asidetitle">分类</p>
 		<ul>
 		
 			<li><a href="/categories/Android/" title="Android">Android<sup>1</sup></a></li>
@@ -198,7 +187,7 @@ $ hexo deploy  //输入GitHub账户和密码即可
 
   
 <div class="tagslist">
-	<p class="asidetitle">Tags</p>
+	<p class="asidetitle">标签</p>
 		<ul class="clearfix">
 		
 			<li><a href="/tags/hexo/" title="hexo">hexo<sup>1</sup></a></li>
@@ -216,7 +205,7 @@ $ hexo deploy  //输入GitHub账户和密码即可
 
 
   <div class="rsspart">
-	<a href="/atom.xml" target="_blank" title="rss">RSS</a>
+	<a href="/atom.xml" target="_blank" title="rss">RSS 订阅</a>
 </div>
 
 </aside>

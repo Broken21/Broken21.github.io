@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://softan.me/"/>
-  <updated>2017-08-20T08:05:55.011Z</updated>
+  <updated>2017-08-20T08:24:18.081Z</updated>
   <id>http://softan.me/</id>
   
   <author>
@@ -16,40 +16,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2017の暑假</title>
-    <link href="http://softan.me/2017/08/20/2017-sujia/"/>
-    <id>http://softan.me/2017/08/20/2017-sujia/</id>
-    <published>2017-08-20T08:05:55.051Z</published>
-    <updated>2017-08-20T08:05:55.011Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;假期已经过去5/4了，还剩漫长的5/1就到了开学的日子了  &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h3 id=&quot;漫长&quot;&gt;&lt;a href=&quot;#漫长&quot; class=&quot;headerlink&quot; title=&quot;漫长&quot;&gt;&lt;/a&gt;漫长&lt;/h3&gt;&lt;/blockquote&gt;
-&lt;p&gt;和以往的暑
-    
-    </summary>
-    
-      <category term="記憶碎片" scheme="http://softan.me/categories/%E8%A8%98%E6%86%B6%E7%A2%8E%E7%89%87/"/>
-    
-    
-      <category term="日常" scheme="http://softan.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-      <category term="假期" scheme="http://softan.me/tags/%E5%81%87%E6%9C%9F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Android上搭建hexo博客</title>
     <link href="http://softan.me/2017/08/20/Android-hexo/"/>
     <id>http://softan.me/2017/08/20/Android-hexo/</id>
-    <published>2017-08-20T07:31:20.871Z</published>
-    <updated>2017-08-20T07:31:20.831Z</updated>
+    <published>2017-08-20T08:24:18.121Z</published>
+    <updated>2017-08-20T08:24:18.081Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;工具&quot;&gt;&lt;a href=&quot;#工具&quot; class=&quot;headerlink&quot; title=&quot;工具&quot;&gt;&lt;/a&gt;工具&lt;/h3&gt;&lt;p&gt;Neoterm(酷安网可以下载)&lt;br&gt;之前用过Termux 但是因为系统的原因tsu也没有权限使用hexo而su又不能执行hexo的命令折
+      利用Neoterm在Android设备上搭建hexo博客环境
     
     </summary>
     
@@ -61,6 +36,28 @@
       <category term="博客" scheme="http://softan.me/tags/%E5%8D%9A%E5%AE%A2/"/>
     
       <category term="终端" scheme="http://softan.me/tags/%E7%BB%88%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2017の暑假</title>
+    <link href="http://softan.me/2017/08/20/2017-sujia/"/>
+    <id>http://softan.me/2017/08/20/2017-sujia/</id>
+    <published>2017-08-20T08:23:20.271Z</published>
+    <updated>2017-08-20T08:23:20.231Z</updated>
+    
+    <summary type="html">
+    
+      开学后还是多把多数时间和精力放在学习上吧 不要老想着管理班级，毕竟我是学生。
+    
+    </summary>
+    
+      <category term="記憶碎片" scheme="http://softan.me/categories/%E8%A8%98%E6%86%B6%E7%A2%8E%E7%89%87/"/>
+    
+    
+      <category term="日常" scheme="http://softan.me/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+      <category term="假期" scheme="http://softan.me/tags/%E5%81%87%E6%9C%9F/"/>
     
   </entry>
   
